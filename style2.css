@@ -1,0 +1,20 @@
+.divA{
+    background: rgb(220, 131, 255);
+    height: 250px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.divB{
+    background: #e41ba1;
+    height: 100%;
+    width: 250px;
+    border: 20px solid red;
+}
+
+.divC{
+    background: rgb(0, 255, 157);
+    height: 88%;
+    width: 30%;
+}

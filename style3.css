@@ -1,0 +1,34 @@
+body{
+    background: #bebebe;
+}
+
+.divB{
+    background: white;
+    height: 500px;
+    width: 50vw;
+    border: 10px dotted black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;    
+}
+
+.divC{
+    background: yellow;
+    height: 50px;
+    width: 30%;
+}
+
+.divD{
+    background: rgb(255, 102, 0);
+    height: 100px;
+    width: 30%;
+}
+
+.divE{
+    background: rgb(0, 255, 0);
+    color: white;
+    font-size: 30px;
+    padding: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
